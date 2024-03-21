@@ -15,6 +15,4 @@ public class con {
             System.out.println(e);
         }
     }
-    public static void main(String[]args)
-    {}
 }
